@@ -76,12 +76,7 @@ Languages and Tools:
     
  ![](https://activity-graph.herokuapp.com/graph?username=purnimasharma04&theme=react-dark&area=true)
 <!--
-**purnimasharma04/purnimasharma04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web Development - Edureka
 - 📫 How to reach me: purnisharma04@gmail.com
 - 😄 Pronouns: she/her
-
-
 -->
