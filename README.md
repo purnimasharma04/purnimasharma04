@@ -9,7 +9,7 @@ Computer Science Student,
 An Independent and self motivated computer science student with some programming knowledge. Currently, part of Full Stack Web Development Internship - Edureka
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/purnimasharma04/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
