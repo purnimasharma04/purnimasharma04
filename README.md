@@ -14,7 +14,7 @@ An Independent and self motivated computer science student with some programming
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=purnimasharma04&column=7"/>
   </a>
 </div>
 
