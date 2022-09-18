@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-Computer Science Student
+Computer Science Student, 
 An Independent and self motivated computer science student with some programming knowledge. Currently, part of Full Stack Web Development Internship - Edureka
 
 
