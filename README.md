@@ -75,8 +75,3 @@ Languages and Tools:
     
     
  ![](https://activity-graph.herokuapp.com/graph?username=purnimasharma04&theme=react-dark&area=true)
-<!--
-- 🌱 I’m currently learning Full Stack Web Development - Edureka
-- 📫 How to reach me: purnisharma04@gmail.com
-- 😄 Pronouns: she/her
--->
