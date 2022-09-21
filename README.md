@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Purnima-red)](https://www.youtube.com/channel/UC9gmNxkfLiJnCTdzXqsU5zQ/playlists)
 [![Linkedin Badge](https://img.shields.io/badge/-Purnima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/purnimar04/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Purnima-green)](https://purnimasharma04.github.io/Edureka_sep_22/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Purnima-yellow)](https://stackoverflow.com/users/20027066/purnima-rangavajjula)
 
 Computer Science Student, 
