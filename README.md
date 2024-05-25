@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Purnima!
+### 👋Hi, I'm Purnima!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying Computer Science at the Amrita School of Computing, India<br/>
 🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@purnirhytms)<br/>
