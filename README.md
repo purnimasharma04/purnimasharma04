@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💻 Featured YouTube Videos
-[![Artificial Intelligence Presentation # Robotics](https://img.youtube.com/vi/3N6Uk5cbiuM/0.jpg)](https://www.youtube.com/watch?v=3N6Uk5cbiuM&t=14s)
+[![Artificial Intelligence Presentation #Robotics](https://ytcards.demolab.com/?id=3N6Uk5cbiuM&title=Artificial+Intelligence+Presentation+#Robotics&lang=en&timestamp=1716575400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Artificial Intelligence Presentation #Robotics")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 
 
 ---
