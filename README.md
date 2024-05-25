@@ -15,6 +15,9 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+# 💻 Featured YouTube Videos
+[![Artificial Intelligence Presentation #Robotics](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=Artificial+Intelligence+Presentation+#Robotics&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Artificial Intelligence Presentation #Robotics")](https://www.youtube.com/watch?v=3N6Uk5cbiuM&t=14s)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=purnimasharma04&icon=0&color=0)](https://visitcount.itsvg.in)
 
