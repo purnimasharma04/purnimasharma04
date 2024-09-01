@@ -1,6 +1,6 @@
 ### 👋Hi, I'm Purnima!
-👩🏻‍💻 About to be Software Engineer sharing about my journey and learnings in Tech<br/>
-👩🏻‍🎓 Studying Computer Science & Engineering at the Amrita School of Computing, India<br/>
+👩🏻‍💻 About to be Software Engineer sharing about my journey and learnings in Tech.<br/>
+👩🏻‍🎓 Studying Computer Science & Engineering at the Amrita Vishwa Vidyapeetham, India<br/>
 🎨 Making videos about Computer Science, Tech, and Productivity on [YouTube](https://www.youtube.com/@purnirhytms)<br/>
 💭 Currently learning about Amazon Web Services  
 
