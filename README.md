@@ -17,7 +17,7 @@
 
 # 💻 Featured YouTube Videos
 [![Artificial Intelligence Presentation #Robotics](https://ytcards.demolab.com/?id=3N6Uk5cbiuM&title=Artificial+Intelligence+Presentation+#Robotics&lang=en&timestamp=1716575400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Artificial Intelligence Presentation #Robotics")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-[![Mercedes Security Case Study](https://ytcards.demolab.com/?id=7bWblhMy0dw&title=Mercedes+Security+Case+Study&lang=en&timestamp=1721241000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Mercedes Security Case Study")](https://youtu.be/7bWblhMy0dw?si=uogrKb9Ua3gK60Bb)
+[![Mercedes Security Case Study](https://ytcards.demolab.com/?id=7bWblhMy0dw&title=Mercedes+Security+Case+Study&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436)](https://youtu.be/7bWblhMy0dw?si=DM2Wc7ry5koQiFGW)
 [![Walmart Sparkathon](https://ytcards.demolab.com/?id=QkMlHKuLghg&title=Walmart+Sparkathon&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436)](https://youtu.be/QkMlHKuLghg?si=9tC8eYOIwuCwtuHu)
 
 
