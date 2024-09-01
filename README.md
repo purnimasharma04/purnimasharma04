@@ -16,7 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💻 Featured YouTube Videos
-[![Artificial Intelligence Presentation #Robotics](https://ytcards.demolab.com/?id=3N6Uk5cbiuM&title=Artificial+Intelligence+Presentation+#Robotics&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436)](https://youtu.be/3N6Uk5cbiuM?si=9aavtKDKIF6uW4Mr)
 [![Mercedes Security Case Study](https://ytcards.demolab.com/?id=7bWblhMy0dw&title=Mercedes+Security+Case+Study&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436)](https://youtu.be/7bWblhMy0dw?si=DM2Wc7ry5koQiFGW)
 [![Walmart Sparkathon](https://ytcards.demolab.com/?id=QkMlHKuLghg&title=Walmart+Sparkathon&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436)](https://youtu.be/QkMlHKuLghg?si=9tC8eYOIwuCwtuHu)
 
