@@ -16,13 +16,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnimasharma04" alt="purnimasharma04" /></a> </p>
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/purnima-rangavajjula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnima-rangavajjula" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/purnirhythms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="purnirhythms" height="30" width="40" /></a>
-<a href="https://discord.gg/purnima#6101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="purnima#6101" height="30" width="40" /></a>
-</p>
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
