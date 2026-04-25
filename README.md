@@ -1,9 +1,9 @@
-<h1 align="left">Hello👋, I'm Purnima Rangavajjula (:-)</h1>
-<h3 align="left">Innovating as a Student Intern & Growing as a Future Leader.</h3>
+<h1 align="left">Hello👋, I'm Purnima Rangavajjula! </h1>
+<h3 align="left">Innovating as a Software Developer & Growing as a Future Leader.</h3>
 
-👩🏻‍💻 About to be Software Engineer sharing about my journey and learnings in Tech.<br/>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in Tech.<br/>
 👩🏻‍🎓 Graduated in Computer Science & Engineering at Amrita Vishwa Vidyapeetham, India.<br/>
-🎨 Making videos about Tech and Productivity on [YouTube](https://www.youtube.com/@purnirhytms).<br/>
+🎨 Making videos about Tech and Productivity, food on [YouTube](https://www.youtube.com/@purnirhytms).<br/>
 📫 How to reach me purnisharma04@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
