@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Purnima Rangavajjula!👋</h1>
 <h3 align="left"> AI Engineer | Exploring the Future of Technology 🤖</h3>
 
-👩🏻‍💻 Software Engineer building multi-agent systems, LLM-powered applications, and exploring the intersection of Software Engineering and Artificial Intelligence.<br/>
+👩🏻‍💻 Software Engineer building multi-agent systems, LLM-powered applications, and exploring the intersection of Software Engineering and AI.<br/>
 👩🏻‍🎓 Computer Science & Engineering graduate from Amrita Vishwa Vidyapeetham, India. <br/>
 🎨 Creating content around Technology, AI, Productivity, and Food on YouTube. [YouTube](https://www.youtube.com/@purnirhytms).<br/>
 📫 Let's connect: purnisharma04@gmail.com
