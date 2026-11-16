@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Purnima Rangavajjula!👋</h1>
-<h3 align="left">Innovating as a Software Developer & Growing as a Future Leader.</h3>
+<h3 align="left"> AI Engineer | Exploring the Future of Technology 🤖</h3>
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in Tech.<br/>
 👩🏻‍🎓 Graduated in Computer Science & Engineering at Amrita Vishwa Vidyapeetham, India.<br/>
